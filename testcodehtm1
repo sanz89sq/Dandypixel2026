@@ -1,0 +1,22 @@
+{
+  "AdsController": {
+    "gameSite": "https://html-classic.itch.zone/html/14007573-1629712/index.html?v=1776846988",
+    "adNetwork": "unity",
+    "admobBanner": "ca-app-pub-3940256099942544/9214589741",
+    "admobInterstitial": "ca-app-pub-3940256099942544/1033173712",
+    "admobRewarded": "ca-app-pub-3940256099942544/5224354917",
+    "admobNative": "ca-app-pub-3940256099942544/2247696110"
+
+    "applovinBanner": "1a13085fbd48b9ea",
+    "applovinInterstitial": "adb7161ff2ac2292",
+
+    "unityGameId": "6094609",
+    "ads": "enable",
+    "testMode": "enable",
+    "unityBanner": "Banner_Android",
+    "unityInterstitial": "Interstitial_Android",
+    "unityRewarded": "Rewarded_Android",
+
+    "reviewActive": false
+  }
+}
