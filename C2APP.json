@@ -2,7 +2,7 @@
   "AdsController": {
     "adNetwork": "applovin",
     "gameSite": "https://embed.cbeebies.com/sarah-and-duck-colouring/"
-    "gameButton": "no"
+    "gameButton": "yes"
     "admobInterstitial": "ca-app-pub-1148407233419999/2892878916",
     "admobAppOpen": "ca-app-pub-1148407233419999/1611586832",
     "admobRewarded": "ca-app-pub-1148407233419999/9673379457",
@@ -10,7 +10,7 @@
     "applovinAppOpen": "5e4d7f5bbceb97c6",
     "applovinRewarded": "68287d2fbee68cf7",
     "unityGameId": "6094609",
-    "ads": "disable",
+    "ads": "enable",
     "testMode": false,
     "inapp": true,
     "unityInterstitial": "Interstitial_Android",
