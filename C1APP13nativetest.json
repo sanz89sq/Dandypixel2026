@@ -15,7 +15,7 @@
     "applovinAppOpen": "d589b65d52e07071",
     "applovinRewarded": "70629a3f83860728",
     "unityGameId": "6094609",
-    "testMode": false,
+    "testMode": true,
     "unityInterstitial": "Interstitial_Android",
     "fanInterstitial": "1033236512988355_1033237492988257",
     "fanNative": "1033236512988355_1033237369654936",
