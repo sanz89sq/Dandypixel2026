@@ -30,7 +30,7 @@
       "title": "Live 9",
       "url": "https://firebasestorage.googleapis.com/v0/b/dandy-a14b5.firebasestorage.app/o/live9.mp4?alt=media&token=9259c04f-32b2-4734-878c-5d3b442cb0e0"
     }
-  ]
+  ],
 
     "wallpaper_categories_json": [
   { "type": "for_you", "name": "For you" },
