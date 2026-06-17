@@ -35,17 +35,6 @@
           "url": "https://firebasestorage.googleapis.com/v0/b/dandy-a14b5.firebasestorage.app/o/live9.mp4?alt=media&token=9259c04f-32b2-4734-878c-5d3b442cb0e0"
         }
       ]
-    },
-    {
-      "key": "pebble_live",
-      "name": "Pebblo",
-      "wallpapers": [
-        {
-          "key": "pebble_live_1",
-          "title": "Pebble Live 1",
-          "url": "https://firebasestorage.googleapis.com/v0/b/dandy-a14b5.firebasestorage.app/o/live4.mp4?alt=media&token=9bd715a5-3ae9-4713-8f1e-eefce58c0a80"
-        }
-      ]
     }
   ],
   "wallpaper_categories_json": [
@@ -59,10 +48,6 @@
     {
       "name": "Live",
       "live_category": "live"
-    },
-    {
-      "name": "Pebble",
-      "live_category": "pebble_live"
     },
     {
       "name": "Trending",
